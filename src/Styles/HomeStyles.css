@@ -1,0 +1,35 @@
+.linear-gradient-background {
+    background: linear-gradient(45deg, blue, midnightblue, purple); 
+    height: 100vh; /* set height to fill entire viewport */
+    width: 100%; /* set width to fill entire viewport */
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    /*this centers the text horizontally*/
+    justify-content: center;
+  
+    /*this centers the text vertically*/
+    align-items: center;
+    /*Makes the height the entire page viewport in order to center text vertically.*/
+    height: 100vh;
+    color: white;
+}
+
+.particles {
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+
+.my-picture {
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.type-writer {
+    font-size: 30px;
+}
+
+
