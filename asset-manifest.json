@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efe2e8ea.css",
+    "main.js": "/static/js/main.53a207b1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/InternshipResume.pdf": "/static/media/InternshipResume.9c20cd7edf560f3362ff.pdf",
+    "static/media/error.png": "/static/media/error.68dc8bc0f5c65dc082a4.png",
+    "static/media/WorkoutsScreen.jpg": "/static/media/WorkoutsScreen.afec521809187344b9a8.jpg",
+    "static/media/AddWorkoutModal.jpg": "/static/media/AddWorkoutModal.a2ea99bb2c345cab12fe.jpg",
+    "static/media/HomeScreen.jpg": "/static/media/HomeScreen.f5e03202367b091aa5ff.jpg",
+    "static/media/AddSetModal.jpg": "/static/media/AddSetModal.e37cd14fb02c67e8ee95.jpg",
+    "static/media/SignUp.jpg": "/static/media/SignUp.ef2cb861c69d63f5ab48.jpg",
+    "static/media/AddGroupModal.jpg": "/static/media/AddGroupModal.c255744a0826debe65a3.jpg",
+    "static/media/SignIn.jpg": "/static/media/SignIn.6d72916682ce95bbfe8c.jpg",
+    "static/media/GroupsScreen.jpg": "/static/media/GroupsScreen.6c80be80891495480365.jpg",
+    "index.html": "/index.html",
+    "main.efe2e8ea.css.map": "/static/css/main.efe2e8ea.css.map",
+    "main.53a207b1.js.map": "/static/js/main.53a207b1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe2e8ea.css",
+    "static/js/main.53a207b1.js"
+  ]
+}
